@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @candyhealth
+- 👀 I’m interested in digital health
+- 🌱 I’m currently learning javascript and git
